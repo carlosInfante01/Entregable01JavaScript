@@ -66,7 +66,6 @@ do{
             if(agregar!=1){
                 agregar = MostrarYVolverAgregar(agregar, NomProd, IDProd, CatProd, PrecioProd);
                 IDProd++;
-                console.log(IDProd)
             }
     
         }
